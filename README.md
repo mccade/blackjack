@@ -1,6 +1,6 @@
 # blackjack
 
-a quick and dirty console blackjack implementation using C#
+c# console hangman implementation
 
 user inputs h, n, or q (hit, no hit, quit)
 
